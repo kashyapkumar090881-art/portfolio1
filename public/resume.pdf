@@ -1,0 +1,57 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 368 >>
+stream
+BT
+/F1 18 Tf
+72 740 Td
+(Kashyap Kumar M Ghatke) Tj
+0 -28 Td
+/F1 12 Tf
+(CV / Resume) Tj
+0 -26 Td
+(Email: kashyapkumar090881@gmail.com) Tj
+0 -20 Td
+(Phone: 9742532576) Tj
+0 -20 Td
+(Location: India) Tj
+0 -20 Td
+(Role: Full-Stack Developer) Tj
+0 -32 Td
+/F1 10 Tf
+(Education: 10th Grade - Soundarya Central School (2023)) Tj
+0 -16 Td
+(Diploma - Acharya Polytechnic (2023 - 2026)) Tj
+0 -16 Td
+(B.Tech in Computer Science and Engineering - Reva University (2026 - 2029)) Tj
+0 -16 Td
+(Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Java, C, MySQL, MongoDB, Git, GitHub) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000062 00000 n 
+0000000127 00000 n 
+0000000514 00000 n 
+0000000898 00000 n 
+0000001268 00000 n 
+trailer
+<< /Root 1 0 R /Size 6 >>
+startxref
+1350
+%%EOF
